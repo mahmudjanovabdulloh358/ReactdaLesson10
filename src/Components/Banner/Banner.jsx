@@ -1,4 +1,5 @@
 import "./Banner.css";
+// eslint-disable-next-line react/prop-types
 const Banner = ({ bgImg, title, bgColor, titleColor }) => {
   return (
     <div
